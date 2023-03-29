@@ -1,0 +1,15 @@
+site_name: GrowMate
+
+theme:
+  name: null
+  custom_dir: growmate
+  colorscheme: github
+  highlightjs: true
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
