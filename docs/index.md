@@ -1,4 +1,4 @@
-<h1> <img src = "/img/logotipo2.png" width=50></img> Project Documentation <small>GrowMate</small> </h1> 
+<h1> <img src = "img/logotipo2.png" width=50></img> Project Documentation <small>GrowMate</small> </h1> 
 
 ## About our project
 
@@ -126,7 +126,7 @@ Our platform will support four types of actors:
 Our use cases can be described through the following diagram: 
 <p></p></br>
 
-<img src="/diagrams/usecases.png" width=600></img> 
+<img src="diagrams/usecases.png" width=600></img> 
 
 <p></p></br>
 
@@ -166,7 +166,7 @@ Given that mobile devices have limited storage and battery resources, the develo
 
 <p></p></br>
 
-<img src = "/diagrams/Domain Model.png">
+<img src = "diagrams/Domain Model.png">
 
 <div class="bs-callout bs-callout-success">
   <h4> Users </h4>
@@ -292,7 +292,7 @@ They will be evaluated according to a scale suggested by the University of Georg
 
 The architecture of the solution will be divided into 4 main modules: the Frontend, the Backend, the Storage and the Sensors Architecture. 
 
-<img src = "/diagrams/system_architecture.png"></img>
+<img src = "diagrams/system_architecture.png"></img>
 
 
 #### <p class="text-success"><b>Frontend</b></p>

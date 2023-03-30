@@ -1,4 +1,6 @@
 site_name: GrowMate
+repo_url: "https://github.com/Sensing-My-Home/Documentation/"
+edit_url: "https://github.com/Sensing-My-Home/"
 
 theme:
   name: null
